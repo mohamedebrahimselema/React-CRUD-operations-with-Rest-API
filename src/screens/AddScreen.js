@@ -35,7 +35,6 @@ const AddScreen = () => {
       alert('Add photo failed!');
     }
   }
-
   return (
     <Container style={{ padding: 16 }}>
       <Row>
